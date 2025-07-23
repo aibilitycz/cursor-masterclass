@@ -48,6 +48,7 @@ Z 30 minut manuální práce → 2 minuty automatizované
 ## 🔧 Add-ins: Specializované nástroje
 
 ### **Taskmaster** - AI Task Management
+https://www.task-master.dev/
 
 #### Co umí Taskmaster:
 - **Automatické vytváření úkolů** z textů a e-mailů
@@ -72,10 +73,7 @@ Taskmaster Output:
 ```
 
 #### Jak nainstalovat:
-1. V Cursoru otevřete Extensions (`Ctrl+Shift+X`)
-2. Hledejte "Taskmaster"
-3. Klikněte Install
-4. Restartujte Cursor
+Instrukce: https://www.task-master.dev/
 
 ### **Superdesign.dev** - AI Design Assistant
 
@@ -97,25 +95,6 @@ Superdesign Output:
 - Charts: Consistent styling with brand colors
 - Footer: Contact info + page numbers
 + CSS/styling code ready to use
-```
-
-#### Integrace s dokumenty:
-```markdown
-<!-- Před Superdesign -->
-# Q1 Report
-Some data here...
-
-<!-- Po Superdesign aplikaci -->
-<div class="professional-report">
-  <header class="report-header">
-    <h1>Q1 Performance Report</h1>
-    <div class="report-meta">Generated: March 31, 2024</div>
-  </header>
-  
-  <section class="executive-summary">
-    <!-- Profesionálně formátovaný obsah -->
-  </section>
-</div>
 ```
 
 ### **Další užitečné Add-ins**:
