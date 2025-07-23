@@ -1,5 +1,14 @@
 # 🤖 Úvod: Co je Cursor a proč se ho nebát
 
+## 📋 Obsah
+
+- [Co je Cursor?](#co-je-cursor)
+- [Proč Cursor není jen pro vývojáře?](#proč-cursor-není-jen-pro-vývojáře)
+- [Jak Cursor funguje?](#jak-cursor-funguje)
+- [Praktické příklady použití](#praktické-příklady-použití)
+- [První kroky](#první-kroky)
+- [Základní ovládání](#základní-ovládání)
+
 ## Co je Cursor?
 
 Cursor je **chytrý textový editor** s integrovaným AI asistentem. Představte si ho jako:
@@ -10,7 +19,7 @@ Cursor je **chytrý textový editor** s integrovaným AI asistentem. Představte
 
 ## Proč Cursor není jen pro vývojáře?
 
-### ❌ Mýty, které můžeme zapomenout:
+### ❌ Mýty, které si můžeme odpustit:
 - "Musím umět programovat"
 - "Je to jen pro technické lidi"
 - "Budu potřebovat kurz programování"
@@ -23,7 +32,7 @@ Cursor je **chytrý textový editor** s integrovaným AI asistentem. Představte
 ## Jak Cursor funguje?
 
 1. **Napíšete instrukci** (prompt) v českém jazyce
-2. **AI pochopí** co chcete
+2. **AI pochopí**, co chcete
 3. **Vytvoří nebo upraví** text podle vašich požadavků
 4. **Vy kontrolujete** a případně upravujete
 
@@ -45,7 +54,7 @@ Cursor je **chytrý textový editor** s integrovaným AI asistentem. Představte
 - Dokumentace designu
 
 ### 🧠 Koučování & HR
-- Strukturování poznámek z sessions
+- Strukturování poznámek ze sezení
 - Příprava vzdělávacích materiálů
 - Feedback a evaluace
 
@@ -53,14 +62,14 @@ Cursor je **chytrý textový editor** s integrovaným AI asistentem. Představte
 
 1. **Otevřete Cursor** (stažení z cursor.com)
 2. **Vytvořte nový soubor** (Ctrl/Cmd + N)
-3. **Stiskněte Ctrl/Cmd + K** pro AI chat
+3. **Stiskněte Ctrl/Cmd + L** pro AI chat
 4. **Napište svůj první prompt**: "Napiš mi krátký e-mail s pozvánkou na schůzku"
 
 ## Základní ovládání
 
-- **Ctrl/Cmd + K**: Otevřít AI chat
 - **Ctrl/Cmd + L**: Chat s celým souborem
-- **Ctrl/Cmd + I**: Inline editing (úpravy přímo v textu)
+- **Ctrl/Cmd + K**: Inline úpravy
+- **Ctrl/Cmd + I**: Compose (generování textu)
 - **Tab**: Přijmout AI návrh
 
 ---

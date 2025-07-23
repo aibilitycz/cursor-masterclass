@@ -1,5 +1,15 @@
 # 🚀 Cursor Cheat Sheet - English Version
 
+## 📋 Contents
+
+- [⌨️ Essential Keyboard Shortcuts](#️-essential-keyboard-shortcuts)
+- [🎯 Most Common Prompts](#-most-common-prompts)
+- [🛠️ Useful Features](#️-useful-features)
+- [📋 Quick Templates](#-quick-templates)
+- [🎯 Pro Tips](#-pro-tips)
+- [🔥 Power User Tips](#-power-user-tips)
+- [🆘 Troubleshooting](#-troubleshooting)
+
 ## ⌨️ Essential Keyboard Shortcuts
 
 ### Core AI Functions
@@ -88,9 +98,9 @@ Target audience: [audience level]
 ## 🛠️ Key Features
 
 ### AI Models in Cursor
-- **GPT-4**: Highest quality, more expensive (complex tasks)
-- **GPT-3.5 Turbo**: Fast, cheaper (routine tasks)
-- **Claude**: Excellent for analysis and research
+- **Claude Sonnet 4**: Highest quality for business (complex tasks)
+- **GPT-4.1**: Fast, cheaper, universal (routine tasks)
+- **OpenAI o3-Pro**: Best reasoning for complex decisions
 
 ### Chat vs Inline Edit
 - **Chat (Cmd+K)**: For discussion, iteration, complex instructions
@@ -191,9 +201,9 @@ Format: [requirements].
 
 ### Multi-model Workflow
 ```
-1. GPT-3.5: First draft
+1. GPT-4.1: First draft
 2. Claude: Data analysis
-3. GPT-4: Final polish
+3. Claude Sonnet 4: Final polish
 ```
 
 ## 🆘 Troubleshooting

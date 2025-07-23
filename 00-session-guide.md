@@ -1,40 +1,66 @@
 # 📋 Průvodce lektora - Cursor Masterclass
 
-## ⏰ Časový rozvrh (60 minut)
+## 📋 Obsah
 
-### Blok 1: Úvod (10 minut)
-- **0-3 min:** Představení, cíle session
-- **3-8 min:** Co je Cursor, demo instalace
-- **8-10 min:** První spuštění, základní UI
+- [⏰ Časový rozvrh (60 minut) - Progresivní přístup](#-časový-rozvrh-60-minut---progresivní-přístup)
+- [🎯 Klíčové body k zdůraznění](#-klíčové-body-k-zdůraznění)
+- [🛠️ Technické požadavky](#️-technické-požadavky)
 
-### Blok 2: WOW Demo (15 minut)
-- **10-15 min:** Živá ukázka - transformace e-mailu na prezentaci
-- **15-20 min:** Vysvětlení co se stalo "pod kapotou"
-- **20-25 min:** Q&A k demo
+## ⏰ Časový rozvrh (60 minut) - Progresivní přístup
 
-### Blok 3: Prompting Basics (15 minut)
-- **25-30 min:** Jak psát efektivní prompty
-- **30-35 min:** Praktické cvičení s účastníky
-- **35-40 min:** Rozborč bad vs good příkladů
+### Level 0: Úvod & Setup (8 minut)
+- **0-3 min:** Představení, cíle - "Od nováčka po Cursor mastera"
+- **3-6 min:** Co je Cursor vs jiné AI editory
+- **6-8 min:** Instalace a první spuštění
 
-### Blok 4: Role Scenarios (15 minut)
-- **40-50 min:** Ukázky pro konkrétní role (sales, product, design)
-- **50-55 min:** Účastníci si vyzkouší svůj use case
+### Level 1: Beginner - Základní ovládání (17 minut)
+- **8-12 min:** Interface tour - panely, sidebar, command palette
+- **12-17 min:** **Command+L** (Chat) - váš první AI rozhovor
+- **17-20 min:** **Command+K** (Inline edit) - magické úpravy textu
+- **20-25 min:** Praktické cvičení - účastníci si vyzkouší oba módy
 
-### Blok 5: Wrap-up (5 minut)
-- **55-58 min:** Advanced tipy, next steps
-- **58-60 min:** Q&A, kontakty
+### Level 2: Intermediate - Essential Extensions (20 minut)
+- **25-30 min:** **Model selection** - Claude Sonnet 4 vs GPT-4.1 vs o3-Pro vs Gemini 2.5
+- **30-35 min:** **MCPs setup** - PDF Reader, CSV Analyzer (essential!)
+- **35-40 min:** **Git integrace** - commit messages, verzování dokumentů
+- **40-45 min:** **Cursor Rules** - jak "natrénovat" Cursor na váš styl
+
+### Level 3: Advanced - Workflow Mastery (12 minut)
+- **45-50 min:** **Advanced workflows** - Multi-MCP automation
+- **50-55 min:** **Specialized add-ins** - Taskmaster, Superdesign.dev
+- **55-57 min:** **Limity a best practices** - kdy Cursor nepoužít
+
+### Wrap-up (3 minut)
+- **57-60 min:** Next steps, komunita, kontakty
 
 ## 🎯 Klíčové body k zdůraznění
 
-- Cursor není jen pro vývojáře
-- AI asistent = váš osobní pomocník
-- Kvalita výstupu závisí na kvalitě instrukce
-- Experimentování je klíčové
+### Pro každý level:
+- **Level 1:** Command+L a Command+K jsou vaše základní nástroje
+- **Level 2:** Model selection a Rules dramaticky zlepší výsledky
+- **Level 3:** Ecosystem rozšíření = neomezené možnosti
+
+### Obecné principy:
+- Cursor má křivku učení - začínat pomalu, postupně přidávat funkce
+- Nenahrazuje myšlení, ale zrychluje realizaci nápadů
+- Git integrace je game-changer pro týmovou práci
+- Konfigurace a Rules jsou klíčové pro konzistentní výsledky
 
 ## 🛠️ Technické požadavky
 
-- Cursor nainstalovaný a připravený
-- Tento repozitář otevřený
-- Demo materiály připravené
-- Backup plán při problémech s internetem
+### Pro lektora:
+- Cursor nainstalovaný s aktivním subscription
+- Připravené demo projekty pro každý level
+- Cursor Rules soubor s předpřipravenými pravidly
+- Seznam MCP pluginů a doplňků k ukázce
+- Přístup na cursor.directory pro live demo
+
+### Pro účastníky:
+- Cursor nainstalovaný (free verze stačí pro začátek)
+- Základní znalost práce s editorem (jakýkoli editor)
+- Připravený jednoduchý projekt k experimentování
+
+### Backup plány:
+- Offline materiály pro Command+L/Command+K demo
+- Screenshots všech klíčových funkcí
+- Předem natočená videa složitějších postupů
