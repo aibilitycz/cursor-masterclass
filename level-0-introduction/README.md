@@ -119,7 +119,8 @@ Před přechodem na Level 1 ověřte:
 
 ## 🔗 Užitečné odkazy
 - [Cursor documentation](https://docs.cursor.sh)
-- [Cursor Discord community](https://discord.gg/cursor)
+- [Cursor forum](https://forum.cursor.com)
+- [Cursor Discord community](https://discord.com/invite/zcbGaqWUhY)
 - [Keyboard shortcuts reference](https://docs.cursor.sh/shortcuts)
 
 ## ➡️ Co dál?

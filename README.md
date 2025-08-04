@@ -83,7 +83,8 @@ Základní představení Cursoru pro netechnické uživatele.
 
 - [Cursor Documentation](https://cursor.com/docs)
 - [Cursor.directory](https://cursor.directory) - komunitní rozšíření
-- [Cursor Discord](https://discord.gg/cursor) - komunita uživatelů
+- [Cursor forum](https://forum.cursor.com)
+- [Cursor Discord](https://discord.com/invite/zcbGaqWUhY) - komunita uživatelů
 
 ---
 
